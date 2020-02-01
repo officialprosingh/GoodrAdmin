@@ -1,0 +1,156 @@
+<resources>
+    <string name="app_name">NGO App</string>
+    <string name="slogan">Create a Different World</string>
+    <string name="thanks">Thanks For Donating Some Food Today and Making this World a Better Place.</string>
+    <array name="genres">
+        <item name="rock">BreakFast</item>
+        <item name="pop">Lunch</item>
+        <item name="jazz">Dinner</item>
+
+    </array>
+    <string name="name">NGO Name</string>
+    <string name="email">NGO E-Mail</string>
+    <string name="password">Password</string>
+    <string name="cacc">Create A Account !</string>
+    <string name="faq">FAQ</string>
+    <string name="language">Change Language</string>
+    <string name="join">JOIN GOODR</string>
+    <string name="signedup">Already Signed Up !</string>
+    <string name="back">Go Back</string>
+    <string name="share">Share it with your friends</string>
+    <string name="welcome">Welcome\nBack</string>
+    <string name="sign">Sign up</string>
+    <string name="help">Need Help?</string>
+    <string name="swelcome">Welcome</string>
+
+
+    <string name="input_error_name">name required</string>
+    <string name="input_error_email">email required</string>
+    <string name="input_error_password">password required</string>
+    <string name="input_error_phone">phone required</string>
+    <string name="input_error_password_length">password should be atleast 6 characters long</string>
+    <string name="input_error_phone_invalid">enter a valid phone number</string>
+    <string name="registration_success">Registered Successfully</string>
+    <string name="input_error_email_invalid">enter a valid email</string>
+    <string name="buy">Buy Crops &amp; Fertilisers</string>
+    <string name="sold">Thanks for Adding Your Crop to the Market Place, Soon a Buyer will Contact You.</string>
+    <string name="logout">Log Out</string>
+    <string name="login">Log In</string>
+
+
+    <string name="donator">Need Help with Food Donation ?</string>
+    <string name="farmerhelp">Need Help with Farming ?</string>
+    <string name="buyerhelp">Need Help with Buying ?</string>
+
+
+    ///About Us
+    <string name="contactemail" translatable="false">info@instaeasy.online</string>
+    <string name="contactnumber" translatable="false">+91 9284458773</string>
+    <string name="contactaddres" translatable="false">Ganesh Nagar, Pune India 411031</string>
+    <string name="myname" translatable="false">Made By - Parwinder Singh</string>
+    <string name="instagram" translatable="false">Follow Us On instagram"</string>
+
+    ///Buy
+    <string name="crops">Crop on Sale</string>
+
+    //Confirm
+    <string name="confirm">CONFIRMATION</string>
+
+    ///Donate
+    <string name="donate">Donate Food Now</string>
+    <string name="dname">Name</string>
+    <string name="dnumber">Number</string>
+    <string name="dweight">Weight</string>
+    <string name="daddress">Address</string>
+    <string name="dfood">Food ( Breakfast , Lunch and Dinner )</string>
+    <string name="dbutton">Add Donation</string>
+
+    ///Food
+    <string name="dlist">Donation List</string>
+
+
+    ///Main
+    <string name="msell">Sell Crop</string>
+    <string name="mfood">Donate Food</string>
+    <string name="mfood2">Get Food</string>
+    <string name="faq2">Get Answers of All Your Questions Here !</string>
+    <string name="mearn">Help to Earn More Money</string>
+    <string name="mearn2">Get Tips to Get Best Profits.</string>
+
+
+    ///Sconfirm
+    <string name="sadress">Farmer Address</string>
+    <string name="price">Price</string>
+    <string name="saccept">Accept</string>
+
+    ///Sell
+    <string name="scrop">Sell Crop Now</string>
+    <string name="sweight">Crop Weight</string>
+    <string name="sfood">Crop Name or Vegetable Name</string>
+    <string name="sprice">Asking Price</string>
+    <string name="sbutton">Sell Crop</string>
+
+
+    ///DIALog
+    <string name="dcall">call the Donator</string>
+    <string name="difood">GOT THE FOOD</string>
+    <string name="fcall">call the Farmer</string>
+    <string name="fbrought">ALREADY BROUGHT</string>
+
+    <string name="foodtype">Food Type</string>
+
+
+    ///FAQ
+    <string name="faqq1">How much I can Donate or Recieve Food within a Day?</string>
+    <string name="faqq1a">Ans . There is No Limit For Receiving or Donating of Food</string>
+    <string name="faqq2">Do I can Donate Money Using this App !</string>
+    <string name="faqq2a">Ans . Currently Using this App ,You can\'t Donate Money.</string>
+    <string name="faqq3">Does This App Store or Sell User Information</string>
+    <string name="faqq3a">Ans . No We dont Sell or Store Any Type of User Information</string>
+    <string name="faqq4">"Whom will be Receiving My Food "</string>
+    <string name="faqq4a">Ans . Including NGOs or Person who need Food can get Food from this App.</string>
+    <string name="faqq5">What If Food is Not of Good Quality</string>
+    <string name="faqq5a">Ans . If Food is Not Up to the Mark, Then You can Return the Food Right Away !</string>
+    <string name="conatct">Contact Us</string>
+
+
+    <string name="aqq1">For How much Price I can Sell My Crop on ?</string>
+    <string name="aqq1a">All the Prices are Decided by the Farmers, still farmer with lowest price will get more attention.</string>
+    <string name="aqq2">Which Crops I can Sell on this App ?</string>
+    <string name="aqq2a">You can Sell - Wheat, Rice , Maize , Oat , Barley and Any Other Vegetables.</string>
+    <string name="aqq3">Is this App works in Whole India ?</string>
+    <string name="aqq3a">Yes,Goodr is Functional in whole India.</string>
+    <string name="aqq4">Who is Responsible for the Transportation of the Crops</string>
+    <string name="aqq4a">Currently, Goodr is not Supporting Any Transportation.We just Act As a Bridge between two Parties.</string>
+    <string name="aqq5">Is Goodr doing Something for Scammers and Fake Product Listing </string>
+    <string name="aqq5a">Yes, Our Support Team Manually View all the Product Listing and Remove Fake Listings.</string>
+
+    <string name="qq1">What is the Payment Method ?</string>
+    <string name="qq1a">Goodr, is not supporting any Payment Method.Payment Method is depend on both Farmer and Buyer.</string>
+    <string name="qq2">Is Goodr is Responsible if I dont Receive the Crops that I Brought?</string>
+    <string name="qq2a">We act as Bridge between Farmer and Buyer, all the Transportation is totally depend on you. </string>
+
+    <string name="qq3">Is this App works in Whole India ?</string>
+    <string name="qq3a">Yes,Goodr is Functional in whole India.</string>
+    <string name="qq4">Who is Responsible for the Transportation of the Crops</string>
+    <string name="qq4a">Currently, Goodr is not Supporting Any Transportation.We just Act As a Bridge between two Parties.</string>
+    <string name="qq5">Is Goodr doing Something for Scammers and Fake Product Listing </string>
+    <string name="qq5a">Yes, Our Support Team Manually View all the Product Listing and Remove Fake Listings.</string>
+
+
+    <string name="weather">Get Weather</string>
+    <string name="weather2">Know Today Weather for Best Farming!</string>
+
+    ///Earn
+    <string name="earn1">Are you a Farmer ?</string>
+    <string name="earn2">Are you a Buyer ?</string>
+
+    <string name="bhelp">Buyer Help ?</string>
+    <string name="ddonation">Donation Address</string>
+    <string name="call">Call Us</string>
+    <string name="website">Visit Our Website</string>
+    <string name="insta">Contact Us on Instagram</string>
+    <string name="fhelp">Farming Help ?</string>
+
+
+</resources>

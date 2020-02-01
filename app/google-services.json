@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "240318061150",
+    "firebase_url": "https://goodr-1860c.firebaseio.com",
+    "project_id": "goodr-1860c",
+    "storage_bucket": "goodr-1860c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240318061150:android:441dbfa3558bbab714f2cf",
+        "android_client_info": {
+          "package_name": "online.goodr.ngoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240318061150-a3nm0b8p5h0dskudmm0nde9p1iorp2a3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "online.goodr.ngoapp",
+            "certificate_hash": "7de69fa1556c7d06e9afbd0f5ee5e8719606ef5e"
+          }
+        },
+        {
+          "client_id": "240318061150-gk5qmhm06ks4mifahhtmp9c5qm7jkq7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm9Y3EUh3kinyhLTCwevCG4MlJt1vAEJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240318061150-gk5qmhm06ks4mifahhtmp9c5qm7jkq7h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "240318061150-sm7b0kibvlhr28k0ipt2da4mnkaivckq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shekarmudaliyar.goodr.goodr"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240318061150:android:af184c435d425f02",
+        "android_client_info": {
+          "package_name": "online.propaans.goodr.goodr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240318061150-hfr42bqcloaegmmt1t6nb8usfpdf7rvj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "online.propaans.goodr.goodr",
+            "certificate_hash": "2bdb1a687e7ef889d00b535cc1f0ad626ac83452"
+          }
+        },
+        {
+          "client_id": "240318061150-gk5qmhm06ks4mifahhtmp9c5qm7jkq7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm9Y3EUh3kinyhLTCwevCG4MlJt1vAEJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240318061150-gk5qmhm06ks4mifahhtmp9c5qm7jkq7h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "240318061150-sm7b0kibvlhr28k0ipt2da4mnkaivckq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shekarmudaliyar.goodr.goodr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
